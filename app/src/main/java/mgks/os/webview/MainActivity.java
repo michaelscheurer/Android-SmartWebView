@@ -87,7 +87,6 @@ public class MainActivity extends AppCompatActivity {
     //Careful with these variable names if altering
     WebView asw_view;
     ProgressBar asw_progress;
-    TextView asw_loading_text;
     NotificationManager asw_notification;
     Notification asw_notification_new;
 
@@ -168,7 +167,6 @@ public class MainActivity extends AppCompatActivity {
         } else {
             findViewById(R.id.msw_progress).setVisibility(View.GONE);
         }
-        asw_loading_text = findViewById(R.id.msw_loading_text);
         Handler handler = new Handler();
 
         //Launching app rating request

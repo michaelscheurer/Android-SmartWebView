@@ -1,4 +1,4 @@
-# Android Smart WebView 
+# Android Smart WebView
 <img src="https://img.shields.io/badge/language-java-orange.svg" /> <img src="https://img.shields.io/badge/version-3.0-yellow.svg" /> [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 
 This project is developed to help you create Hybrid Android applications with just webview. Hybrid app comes in between webview and native forms, with this project you can embed any existing webpage or setup an Offline HTML/CSS/Javascript based project.
@@ -39,7 +39,7 @@ static boolean ASWP_FUPLOAD     = true;     //upload file from webview
 static boolean ASWP_CAMUPLOAD   = true;     //enable upload from camera for photos
 static boolean ASWP_ONLYCAM     = false;	//incase you want only camera files to upload
 static boolean ASWP_MULFILE     = true;     //upload multiple files in webview
-static boolean ASWP_LOCATION    = true;     //track GPS locations
+static boolean ASWP_LOCATION    = false;     //track GPS locations
 static boolean ASWP_RATINGS     = true;     //show ratings dialog; auto configured, edit method get_rating() for customizations
 static boolean ASWP_PBAR        = true;     //show progress bar in app
 static boolean ASWP_ZOOM        = false;    //zoom control for webpages view
