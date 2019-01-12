@@ -4,11 +4,11 @@ android {
 	compileSdkVersion 28
 	buildToolsVersion '28.0.3'
 	defaultConfig {
-		applicationId 'mgks.os.webview'
+		applicationId 'ch.seccom.farmx'
 		minSdkVersion 19
 		targetSdkVersion 28
-		versionCode 3
-		versionName '3.0'
+		versionCode 1
+		versionName '1.0'
 		testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 		multiDexEnabled true
 	}

@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package ch.seccom.farmx;
 
 /*
 * Android Smart WebView is an Open Source Project available on GitHub.
@@ -47,13 +47,11 @@ import android.webkit.GeolocationPermissions;
 import android.webkit.URLUtil;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
-import android.webkit.WebResourceError;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.ProgressBar;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import java.io.File;

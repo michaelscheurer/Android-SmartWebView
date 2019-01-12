@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package ch.seccom.farmx;
 
 /*
 * Android Smart WebView is an Open Source Project available on GitHub.
@@ -25,7 +25,7 @@ class SmartWebView {
 	static boolean ASWP_EXTURL      = true;     //open external url with default browser instead of app webview
 
 	//Configuration variables
-	static String ASWV_URL          = "https://devapp.farme.ch"; //complete URL of your website or webpage
+	static String ASWV_URL          = "https://app.farmx.ch"; //complete URL of your website or webpage
 	static String ASWV_F_TYPE       = "*/*";  //to upload any file type using "*/*"; check file type references for more
 
 	//Rating system variables

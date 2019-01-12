@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package ch.seccom.farmx;
 
 import org.junit.Test;
 

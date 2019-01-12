@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package ch.seccom.farmx;
 
 import android.Manifest;
 import android.annotation.SuppressLint;

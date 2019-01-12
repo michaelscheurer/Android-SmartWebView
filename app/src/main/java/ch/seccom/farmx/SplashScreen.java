@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package ch.seccom.farmx;
 
 import android.app.Activity;
 import android.content.Intent;

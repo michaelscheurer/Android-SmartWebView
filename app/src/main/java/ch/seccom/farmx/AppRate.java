@@ -1,4 +1,4 @@
-package mgks.os.webview;
+package ch.seccom.farmx;
 
 import android.annotation.SuppressLint;
 import android.app.Activity;
@@ -8,13 +8,13 @@ import android.view.View;
 
 import java.util.Date;
 
-import static mgks.os.webview.DialogManager.create;
-import static mgks.os.webview.PreferenceHelper.getInstallDate;
-import static mgks.os.webview.PreferenceHelper.getIsAgreeShowDialog;
-import static mgks.os.webview.PreferenceHelper.getLaunchTimes;
-import static mgks.os.webview.PreferenceHelper.getRemindInterval;
-import static mgks.os.webview.PreferenceHelper.isFirstLaunch;
-import static mgks.os.webview.PreferenceHelper.setInstallDate;
+import static ch.seccom.farmx.DialogManager.create;
+import static ch.seccom.farmx.PreferenceHelper.getInstallDate;
+import static ch.seccom.farmx.PreferenceHelper.getIsAgreeShowDialog;
+import static ch.seccom.farmx.PreferenceHelper.getLaunchTimes;
+import static ch.seccom.farmx.PreferenceHelper.getRemindInterval;
+import static ch.seccom.farmx.PreferenceHelper.isFirstLaunch;
+import static ch.seccom.farmx.PreferenceHelper.setInstallDate;
 
 public final class AppRate {
 
